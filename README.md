@@ -12,18 +12,6 @@ We propose a hybrid IRL framework that extends polynomial feature-based approach
 
 Our approach shows significant improvement in environments like `Pendulum-v1` and `CartPole-v1` over traditional polynomial methods.
 
-## 📁 Project Structure
-
-├── src/ # Source code for IRL pipeline
-│ ├── rbf_network.py # RBF feature formulation
-│ ├── bandit_selector.py # Multi-armed bandit logic for center selection
-│ ├── width_methods.py # Kernel width adaptation strategies
-│ └── train.py # Training pipeline
-├── results/ # Plots and logs from experiments
-├── data/ # Expert demonstrations
-├── README.md # This file
-└── report.pdf # Full technical report
-
 
 ## ⚙️ Methodology Highlights
 
