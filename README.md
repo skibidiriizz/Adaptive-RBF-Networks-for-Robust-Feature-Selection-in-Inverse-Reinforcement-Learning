@@ -40,23 +40,7 @@ Our method achieved:
 - Robust generalization in non-linear environments.
 - Efficient reward recovery even from limited or noisy expert data.
 
-## 🚀 How to Run
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Train the model:
-    ```bash
-    python train.py --env Pendulum-v1 --k_candidates 2 3 4 5 --width_method learned
-    ```
 
 ## 👨‍💻 Contributors
 
